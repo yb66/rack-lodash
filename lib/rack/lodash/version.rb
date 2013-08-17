@@ -1,5 +1,5 @@
 module Rack
-  module Lodash
+  class Lodash
 
     # The version of this library.
     VERSION = "0.0.1"

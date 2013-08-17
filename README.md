@@ -1,10 +1,10 @@
 # Rack::Lodash #
 
-Lo-dash CDN script tags and fallback in one neat package. Current version is for Lo-dash v#{Rack::Lodash::LODASH_VERSION}
+[Lo-dash](http://lodash.com/) CDN script tags and fallback in one neat package. Current version is for Lo-dash v#{Rack::Lodash::LODASH_VERSION}
 
 ## Why? ##
 
-Because then I don't have to worry about versioning.
+Because then I don't have to worry about versioning or fallback.
 
 
 ## Installation ##
