@@ -12,17 +12,17 @@ Add this line to your application's Gemfile:
 
     gem 'rack-lodash'
 
-And then execute:
+And then, from a command-line, execute:
 
-    $ bundle install
+    bundle install
 
 Or even better:
 
-    $ bundle install --binstubs --path vendor
+    bundle install --binstubs --path vendor
 
 Or install it yourself as:
 
-    $ gem install rack-lodash -r
+    gem install rack-lodash -r
 
 ## Usage ##
 
