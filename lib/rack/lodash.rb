@@ -12,7 +12,7 @@ module Rack
       CLOUDFLARE = "//cdnjs.cloudflare.com/ajax/libs/lodash.js/#{LODASH_VERSION}/lodash.min.js"
 
       # Script tags for the jsDelivr CDN
-      JSDELIVR = "//cdn.jsdelivr.net/lodash/#{LODASH_VERSION}/lodash.backbone.min.js"
+      JSDELIVR = "//cdn.jsdelivr.net/lodash/#{LODASH_VERSION}/lodash.min.js"
     end
 
 
