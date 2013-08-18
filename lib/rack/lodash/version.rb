@@ -2,7 +2,7 @@ module Rack
   class Lodash
 
     # The version of this library.
-    VERSION = "1.0.0"
+    VERSION = "1.0.1"
 
     # The version of Lo-dash it supports
     LODASH_VERSION = "1.3.1"

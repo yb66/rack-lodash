@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
   spec.version       = Rack::Lodash::VERSION
   spec.authors       = ["Iain Barnett"]
   spec.email         = ["iainspeed@gmail.com"]
-  spec.description   = %Q{Lo-dash CDN script tags and fallback in one neat package. Current version is for Lo-dash v#{Rack::Lodash::LODASH_VERSION}
+  spec.description   = %Q{Lo-dash CDN script tags and fallback in one neat package. Current version is for Lo-dash v#{Rack::Lodash::LODASH_VERSION}}
   spec.summary       = %q{The description says it all.}
   spec.homepage      = "https://github.com/yb66/rack-jquery"
   spec.license       = "MIT"

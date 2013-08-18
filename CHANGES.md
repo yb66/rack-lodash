@@ -1,6 +1,15 @@
 # CH CH CH CH CHANGES! #
 
-## Sunday the 18th of August 2013, v1.0.0 ##
+## Sunday the 18th of August 2013 ##
+
+### v1.0.1 ###
+
+* Managed to add a typo into the gemspec, fixed.
+
+----
+
+
+### v1.0.0 ###
 
 * Works in production, no planned changes to API so bumping version to 1.0.0.
 * Fixed version display in the gemspec description.
