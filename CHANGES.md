@@ -1,5 +1,12 @@
 # CH CH CH CH CHANGES! #
 
+## Sunday the 13th of October 2013, v1.1.0 ##
+
+* Added version 2.2.1 of Lo-Dash.
+
+----
+
+
 ## Tuesday the 27th of August 2013, v1.0.2 ##
 
 * Had the wrong link in the gemspec, fixed it. (That'll teach me to copy and paste!;)
