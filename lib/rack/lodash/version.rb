@@ -5,10 +5,10 @@ module Rack
     VERSION = "1.0.2"
 
     # The version of Lo-dash it supports
-    LODASH_VERSION = "1.3.1"
+    LODASH_VERSION = "2.2.1"
 
     # This is the release date of the Lo-dash file, it makes an easy "Last-Modified" date for setting the headers around caching.
-    # @todo remember to change Last-Modified with each release!
-    LODASH_VERSION_DATE = "Wed, 12 Jun 2013 15:54:39 +0100"
+    # @todo remember to change Last-Modified with each release! To get this, DateTime.parse(release_date).rfc2822
+    LODASH_VERSION_DATE = "Thu, 3 Oct 2013 09:42:50 +0000"
   end
 end
