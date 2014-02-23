@@ -1,5 +1,12 @@
 # CH CH CH CH CHANGES! #
 
+## Sunday the 23rd of February 2014, v1.2.0 ##
+
+* Added version 2.4.1 of Lo-Dash.
+
+----
+
+
 ## Sunday the 13th of October 2013, v1.1.0 ##
 
 * Added version 2.2.1 of Lo-Dash.
