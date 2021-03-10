@@ -1,5 +1,7 @@
 # Rack::Lodash #
 
+NO LONGER IN DEVELOPMENT, obvs.
+
 [Lo-dash](http://lodash.com/) CDN script tags and fallback in one neat package. Current version is for Lo-dash v#{Rack::Lodash::LODASH_VERSION}
 
 ### Build status ###
